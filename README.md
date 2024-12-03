@@ -13,7 +13,7 @@ O objetivo do projeto consiste em criar a funcionalidade de alugar e devolver jo
 
 ## Acesse o projeto 
 [GitHub](https://github.com/lillianmartins/alugames)  
-[Link](alugames-aay4sgkdc-lillianmartins-projects.vercel.app) 
+[Link](https://alugames-elbcm69nr-lillianmartins-projects.vercel.app/) 
 
 ## Mais informações sobre o curso
 Acesse [Alura](https://www.alura.com.br/curso-online-logica-programacao-praticando-desafios)
