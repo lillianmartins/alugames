@@ -1,4 +1,4 @@
-![Programação-Lógica de Programação: Projeto Sorteador de Números]()
+![Programação-Lógica de Programação: Projeto AluGames](https://github.com/user-attachments/assets/e02f3d49-c4fd-447b-af14-a113aa15a88e)
 
 # Projeto AluGames
 O objetivo do projeto consiste em criar a funcionalidade de alugar e devolver jogos, alterando o texto dos botões e o visual dos jogos conforme sua disponibilidade.
@@ -12,8 +12,8 @@ O objetivo do projeto consiste em criar a funcionalidade de alugar e devolver jo
 - Interagir com o DOM para modificar a aparência e o comportamento de uma página web.
 
 ## Acesse o projeto 
-[GitHub]()  
-[Link]() 
+[GitHub](https://github.com/lillianmartins/alugames)  
+[Link](alugames-aay4sgkdc-lillianmartins-projects.vercel.app) 
 
 ## Mais informações sobre o curso
 Acesse [Alura](https://www.alura.com.br/curso-online-logica-programacao-praticando-desafios)
